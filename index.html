@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <div class="login-form">
+        <div id="image-section" aria-hidden="true">
+            <img src="assets/images/login_form_backgound.jpg" alt="">
+        </div>
+        <div id="login-section">
+            <h1>Welcome back</h1>
+            <p class="login-intro">Sign in to your account</p>
+            <form>
+                <div class="form-field">
+                    <label for="username">Username</label>
+                    <input type="text" id="txtUsername" name="username" required>
+                </div>
+                <div class="form-field">
+                    <label for="password">Password</label>
+                    <input type="password" id="txtPassword" name="password" required>
+                </div>
+                <small id="error-display"></small>
+                <button type="submit" onclick="checkLoginDetailsOnAction()">Log in</button>
+            </form>
+        </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js\app.js"></script>
+</body>
+</html>

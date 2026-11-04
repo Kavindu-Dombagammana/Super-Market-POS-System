@@ -1,0 +1,1202 @@
+[
+  {
+    "itemName": "Milk",
+    "itemID": "#B0001",
+    "Category": "Beverages",
+    "price": "270.00 Rs"
+  },
+  {
+    "itemName": "Orange Juice",
+    "itemID": "#B0002",
+    "Category": "Beverages",
+    "price": "480.00 Rs"
+  },
+  {
+    "itemName": "Apple Juice",
+    "itemID": "#B0003",
+    "Category": "Beverages",
+    "price": "660.00 Rs"
+  },
+  {
+    "itemName": "Mineral Water",
+    "itemID": "#B0004",
+    "Category": "Beverages",
+    "price": "670.00 Rs"
+  },
+  {
+    "itemName": "Sparkling Water",
+    "itemID": "#B0005",
+    "Category": "Beverages",
+    "price": "810.00 Rs"
+  },
+  {
+    "itemName": "Cola",
+    "itemID": "#B0006",
+    "Category": "Beverages",
+    "price": "260.00 Rs"
+  },
+  {
+    "itemName": "Lemonade",
+    "itemID": "#B0007",
+    "Category": "Beverages",
+    "price": "380.00 Rs"
+  },
+  {
+    "itemName": "Ginger Ale",
+    "itemID": "#B0008",
+    "Category": "Beverages",
+    "price": "760.00 Rs"
+  },
+  {
+    "itemName": "Green Tea",
+    "itemID": "#B0009",
+    "Category": "Beverages",
+    "price": "790.00 Rs"
+  },
+  {
+    "itemName": "Black Tea",
+    "itemID": "#B0010",
+    "Category": "Beverages",
+    "price": "720.00 Rs"
+  },
+  {
+    "itemName": "Instant Coffee",
+    "itemID": "#B0011",
+    "Category": "Beverages",
+    "price": "580.00 Rs"
+  },
+  {
+    "itemName": "Ground Coffee",
+    "itemID": "#B0012",
+    "Category": "Beverages",
+    "price": "740.00 Rs"
+  },
+  {
+    "itemName": "Iced Tea",
+    "itemID": "#B0013",
+    "Category": "Beverages",
+    "price": "710.00 Rs"
+  },
+  {
+    "itemName": "Energy Drink",
+    "itemID": "#B0014",
+    "Category": "Beverages",
+    "price": "900.00 Rs"
+  },
+  {
+    "itemName": "Coconut Water",
+    "itemID": "#B0015",
+    "Category": "Beverages",
+    "price": "650.00 Rs"
+  },
+  {
+    "itemName": "Mango Juice",
+    "itemID": "#B0016",
+    "Category": "Beverages",
+    "price": "750.00 Rs"
+  },
+  {
+    "itemName": "Chocolate Milk",
+    "itemID": "#B0017",
+    "Category": "Beverages",
+    "price": "600.00 Rs"
+  },
+  {
+    "itemName": "Basmati Rice",
+    "itemID": "#G0001",
+    "Category": "Grocery",
+    "price": "690.00 Rs"
+  },
+  {
+    "itemName": "White Rice",
+    "itemID": "#G0002",
+    "Category": "Grocery",
+    "price": "200.00 Rs"
+  },
+  {
+    "itemName": "Brown Rice",
+    "itemID": "#G0003",
+    "Category": "Grocery",
+    "price": "1460.00 Rs"
+  },
+  {
+    "itemName": "Wheat Flour",
+    "itemID": "#G0004",
+    "Category": "Grocery",
+    "price": "360.00 Rs"
+  },
+  {
+    "itemName": "All-Purpose Flour",
+    "itemID": "#G0005",
+    "Category": "Grocery",
+    "price": "430.00 Rs"
+  },
+  {
+    "itemName": "Sugar",
+    "itemID": "#G0006",
+    "Category": "Grocery",
+    "price": "790.00 Rs"
+  },
+  {
+    "itemName": "Brown Sugar",
+    "itemID": "#G0007",
+    "Category": "Grocery",
+    "price": "400.00 Rs"
+  },
+  {
+    "itemName": "Salt",
+    "itemID": "#G0008",
+    "Category": "Grocery",
+    "price": "1120.00 Rs"
+  },
+  {
+    "itemName": "Spaghetti",
+    "itemID": "#G0009",
+    "Category": "Grocery",
+    "price": "220.00 Rs"
+  },
+  {
+    "itemName": "Penne Pasta",
+    "itemID": "#G0010",
+    "Category": "Grocery",
+    "price": "1600.00 Rs"
+  },
+  {
+    "itemName": "Instant Noodles",
+    "itemID": "#G0011",
+    "Category": "Grocery",
+    "price": "1200.00 Rs"
+  },
+  {
+    "itemName": "Oats",
+    "itemID": "#G0012",
+    "Category": "Grocery",
+    "price": "1590.00 Rs"
+  },
+  {
+    "itemName": "Cornflakes",
+    "itemID": "#G0013",
+    "Category": "Grocery",
+    "price": "840.00 Rs"
+  },
+  {
+    "itemName": "Red Lentils",
+    "itemID": "#G0014",
+    "Category": "Grocery",
+    "price": "630.00 Rs"
+  },
+  {
+    "itemName": "Chickpeas",
+    "itemID": "#G0015",
+    "Category": "Grocery",
+    "price": "1010.00 Rs"
+  },
+  {
+    "itemName": "Kidney Beans",
+    "itemID": "#G0016",
+    "Category": "Grocery",
+    "price": "720.00 Rs"
+  },
+  {
+    "itemName": "Cooking Oil",
+    "itemID": "#G0017",
+    "Category": "Grocery",
+    "price": "910.00 Rs"
+  },
+  {
+    "itemName": "Potato Chips",
+    "itemID": "#S0001",
+    "Category": "Snacks",
+    "price": "460.00 Rs"
+  },
+  {
+    "itemName": "Tortilla Chips",
+    "itemID": "#S0002",
+    "Category": "Snacks",
+    "price": "480.00 Rs"
+  },
+  {
+    "itemName": "Popcorn",
+    "itemID": "#S0003",
+    "Category": "Snacks",
+    "price": "860.00 Rs"
+  },
+  {
+    "itemName": "Salted Peanuts",
+    "itemID": "#S0004",
+    "Category": "Snacks",
+    "price": "620.00 Rs"
+  },
+  {
+    "itemName": "Cashew Nuts",
+    "itemID": "#S0005",
+    "Category": "Snacks",
+    "price": "750.00 Rs"
+  },
+  {
+    "itemName": "Almonds",
+    "itemID": "#S0006",
+    "Category": "Snacks",
+    "price": "180.00 Rs"
+  },
+  {
+    "itemName": "Chocolate Bar",
+    "itemID": "#S0007",
+    "Category": "Snacks",
+    "price": "840.00 Rs"
+  },
+  {
+    "itemName": "Dark Chocolate",
+    "itemID": "#S0008",
+    "Category": "Snacks",
+    "price": "450.00 Rs"
+  },
+  {
+    "itemName": "Chocolate Biscuits",
+    "itemID": "#S0009",
+    "Category": "Snacks",
+    "price": "190.00 Rs"
+  },
+  {
+    "itemName": "Cream Crackers",
+    "itemID": "#S0010",
+    "Category": "Snacks",
+    "price": "670.00 Rs"
+  },
+  {
+    "itemName": "Cookies",
+    "itemID": "#S0011",
+    "Category": "Snacks",
+    "price": "650.00 Rs"
+  },
+  {
+    "itemName": "Wafers",
+    "itemID": "#S0012",
+    "Category": "Snacks",
+    "price": "400.00 Rs"
+  },
+  {
+    "itemName": "Gummy Candy",
+    "itemID": "#S0013",
+    "Category": "Snacks",
+    "price": "390.00 Rs"
+  },
+  {
+    "itemName": "Hard Candy",
+    "itemID": "#S0014",
+    "Category": "Snacks",
+    "price": "570.00 Rs"
+  },
+  {
+    "itemName": "Chewing Gum",
+    "itemID": "#S0015",
+    "Category": "Snacks",
+    "price": "240.00 Rs"
+  },
+  {
+    "itemName": "Granola Bar",
+    "itemID": "#S0016",
+    "Category": "Snacks",
+    "price": "760.00 Rs"
+  },
+  {
+    "itemName": "Pretzels",
+    "itemID": "#S0017",
+    "Category": "Snacks",
+    "price": "820.00 Rs"
+  },
+  {
+    "itemName": "Butter",
+    "itemID": "#D0001",
+    "Category": "Dairy",
+    "price": "1720.00 Rs"
+  },
+  {
+    "itemName": "Cheddar Cheese",
+    "itemID": "#D0002",
+    "Category": "Dairy",
+    "price": "1430.00 Rs"
+  },
+  {
+    "itemName": "Mozzarella Cheese",
+    "itemID": "#D0003",
+    "Category": "Dairy",
+    "price": "880.00 Rs"
+  },
+  {
+    "itemName": "Cream Cheese",
+    "itemID": "#D0004",
+    "Category": "Dairy",
+    "price": "300.00 Rs"
+  },
+  {
+    "itemName": "Plain Yogurt",
+    "itemID": "#D0005",
+    "Category": "Dairy",
+    "price": "1990.00 Rs"
+  },
+  {
+    "itemName": "Strawberry Yogurt",
+    "itemID": "#D0006",
+    "Category": "Dairy",
+    "price": "1700.00 Rs"
+  },
+  {
+    "itemName": "Fresh Cream",
+    "itemID": "#D0007",
+    "Category": "Dairy",
+    "price": "1000.00 Rs"
+  },
+  {
+    "itemName": "Eggs",
+    "itemID": "#D0008",
+    "Category": "Dairy",
+    "price": "990.00 Rs"
+  },
+  {
+    "itemName": "Margarine",
+    "itemID": "#D0009",
+    "Category": "Dairy",
+    "price": "1190.00 Rs"
+  },
+  {
+    "itemName": "Condensed Milk",
+    "itemID": "#D0010",
+    "Category": "Dairy",
+    "price": "1110.00 Rs"
+  },
+  {
+    "itemName": "Powdered Milk",
+    "itemID": "#D0011",
+    "Category": "Dairy",
+    "price": "440.00 Rs"
+  },
+  {
+    "itemName": "Parmesan Cheese",
+    "itemID": "#D0012",
+    "Category": "Dairy",
+    "price": "1070.00 Rs"
+  },
+  {
+    "itemName": "Paneer",
+    "itemID": "#D0013",
+    "Category": "Dairy",
+    "price": "2070.00 Rs"
+  },
+  {
+    "itemName": "Ghee",
+    "itemID": "#D0014",
+    "Category": "Dairy",
+    "price": "1450.00 Rs"
+  },
+  {
+    "itemName": "Sour Cream",
+    "itemID": "#D0015",
+    "Category": "Dairy",
+    "price": "1380.00 Rs"
+  },
+  {
+    "itemName": "Whipped Cream",
+    "itemID": "#D0016",
+    "Category": "Dairy",
+    "price": "1270.00 Rs"
+  },
+  {
+    "itemName": "Apple",
+    "itemID": "#F0001",
+    "Category": "Fruits",
+    "price": "390.00 Rs"
+  },
+  {
+    "itemName": "Banana",
+    "itemID": "#F0002",
+    "Category": "Fruits",
+    "price": "1020.00 Rs"
+  },
+  {
+    "itemName": "Orange",
+    "itemID": "#F0003",
+    "Category": "Fruits",
+    "price": "1190.00 Rs"
+  },
+  {
+    "itemName": "Mango",
+    "itemID": "#F0004",
+    "Category": "Fruits",
+    "price": "1160.00 Rs"
+  },
+  {
+    "itemName": "Grapes",
+    "itemID": "#F0005",
+    "Category": "Fruits",
+    "price": "960.00 Rs"
+  },
+  {
+    "itemName": "Watermelon",
+    "itemID": "#F0006",
+    "Category": "Fruits",
+    "price": "680.00 Rs"
+  },
+  {
+    "itemName": "Pineapple",
+    "itemID": "#F0007",
+    "Category": "Fruits",
+    "price": "1010.00 Rs"
+  },
+  {
+    "itemName": "Papaya",
+    "itemID": "#F0008",
+    "Category": "Fruits",
+    "price": "1130.00 Rs"
+  },
+  {
+    "itemName": "Strawberry",
+    "itemID": "#F0009",
+    "Category": "Fruits",
+    "price": "1200.00 Rs"
+  },
+  {
+    "itemName": "Blueberries",
+    "itemID": "#F0010",
+    "Category": "Fruits",
+    "price": "200.00 Rs"
+  },
+  {
+    "itemName": "Lemon",
+    "itemID": "#F0011",
+    "Category": "Fruits",
+    "price": "610.00 Rs"
+  },
+  {
+    "itemName": "Lime",
+    "itemID": "#F0012",
+    "Category": "Fruits",
+    "price": "410.00 Rs"
+  },
+  {
+    "itemName": "Pear",
+    "itemID": "#F0013",
+    "Category": "Fruits",
+    "price": "250.00 Rs"
+  },
+  {
+    "itemName": "Peach",
+    "itemID": "#F0014",
+    "Category": "Fruits",
+    "price": "360.00 Rs"
+  },
+  {
+    "itemName": "Pomegranate",
+    "itemID": "#F0015",
+    "Category": "Fruits",
+    "price": "1030.00 Rs"
+  },
+  {
+    "itemName": "Avocado",
+    "itemID": "#F0016",
+    "Category": "Fruits",
+    "price": "1110.00 Rs"
+  },
+  {
+    "itemName": "Kiwi",
+    "itemID": "#F0017",
+    "Category": "Fruits",
+    "price": "440.00 Rs"
+  },
+  {
+    "itemName": "Tomato",
+    "itemID": "#V0001",
+    "Category": "Vegetables",
+    "price": "590.00 Rs"
+  },
+  {
+    "itemName": "Onion",
+    "itemID": "#V0002",
+    "Category": "Vegetables",
+    "price": "330.00 Rs"
+  },
+  {
+    "itemName": "Potato",
+    "itemID": "#V0003",
+    "Category": "Vegetables",
+    "price": "220.00 Rs"
+  },
+  {
+    "itemName": "Carrot",
+    "itemID": "#V0004",
+    "Category": "Vegetables",
+    "price": "570.00 Rs"
+  },
+  {
+    "itemName": "Cucumber",
+    "itemID": "#V0005",
+    "Category": "Vegetables",
+    "price": "580.00 Rs"
+  },
+  {
+    "itemName": "Cabbage",
+    "itemID": "#V0006",
+    "Category": "Vegetables",
+    "price": "660.00 Rs"
+  },
+  {
+    "itemName": "Broccoli",
+    "itemID": "#V0007",
+    "Category": "Vegetables",
+    "price": "360.00 Rs"
+  },
+  {
+    "itemName": "Cauliflower",
+    "itemID": "#V0008",
+    "Category": "Vegetables",
+    "price": "670.00 Rs"
+  },
+  {
+    "itemName": "Spinach",
+    "itemID": "#V0009",
+    "Category": "Vegetables",
+    "price": "510.00 Rs"
+  },
+  {
+    "itemName": "Lettuce",
+    "itemID": "#V0010",
+    "Category": "Vegetables",
+    "price": "420.00 Rs"
+  },
+  {
+    "itemName": "Capsicum",
+    "itemID": "#V0011",
+    "Category": "Vegetables",
+    "price": "660.00 Rs"
+  },
+  {
+    "itemName": "Eggplant",
+    "itemID": "#V0012",
+    "Category": "Vegetables",
+    "price": "610.00 Rs"
+  },
+  {
+    "itemName": "Pumpkin",
+    "itemID": "#V0013",
+    "Category": "Vegetables",
+    "price": "590.00 Rs"
+  },
+  {
+    "itemName": "Green Beans",
+    "itemID": "#V0014",
+    "Category": "Vegetables",
+    "price": "510.00 Rs"
+  },
+  {
+    "itemName": "Garlic",
+    "itemID": "#V0015",
+    "Category": "Vegetables",
+    "price": "540.00 Rs"
+  },
+  {
+    "itemName": "Ginger",
+    "itemID": "#V0016",
+    "Category": "Vegetables",
+    "price": "310.00 Rs"
+  },
+  {
+    "itemName": "Green Chili",
+    "itemID": "#V0017",
+    "Category": "Vegetables",
+    "price": "400.00 Rs"
+  },
+  {
+    "itemName": "Whole Chicken",
+    "itemID": "#M0001",
+    "Category": "Meat & Seafood",
+    "price": "1700.00 Rs"
+  },
+  {
+    "itemName": "Chicken Breast",
+    "itemID": "#M0002",
+    "Category": "Meat & Seafood",
+    "price": "640.00 Rs"
+  },
+  {
+    "itemName": "Chicken Drumsticks",
+    "itemID": "#M0003",
+    "Category": "Meat & Seafood",
+    "price": "740.00 Rs"
+  },
+  {
+    "itemName": "Minced Beef",
+    "itemID": "#M0004",
+    "Category": "Meat & Seafood",
+    "price": "1210.00 Rs"
+  },
+  {
+    "itemName": "Beef Steak",
+    "itemID": "#M0005",
+    "Category": "Meat & Seafood",
+    "price": "3280.00 Rs"
+  },
+  {
+    "itemName": "Lamb Chops",
+    "itemID": "#M0006",
+    "Category": "Meat & Seafood",
+    "price": "3050.00 Rs"
+  },
+  {
+    "itemName": "Pork Ribs",
+    "itemID": "#M0007",
+    "Category": "Meat & Seafood",
+    "price": "2480.00 Rs"
+  },
+  {
+    "itemName": "Bacon",
+    "itemID": "#M0008",
+    "Category": "Meat & Seafood",
+    "price": "2740.00 Rs"
+  },
+  {
+    "itemName": "Sausages",
+    "itemID": "#M0009",
+    "Category": "Meat & Seafood",
+    "price": "2600.00 Rs"
+  },
+  {
+    "itemName": "Ham",
+    "itemID": "#M0010",
+    "Category": "Meat & Seafood",
+    "price": "2070.00 Rs"
+  },
+  {
+    "itemName": "Salmon Fillet",
+    "itemID": "#M0011",
+    "Category": "Meat & Seafood",
+    "price": "1420.00 Rs"
+  },
+  {
+    "itemName": "Tuna Steak",
+    "itemID": "#M0012",
+    "Category": "Meat & Seafood",
+    "price": "1660.00 Rs"
+  },
+  {
+    "itemName": "Prawns",
+    "itemID": "#M0013",
+    "Category": "Meat & Seafood",
+    "price": "3440.00 Rs"
+  },
+  {
+    "itemName": "Squid",
+    "itemID": "#M0014",
+    "Category": "Meat & Seafood",
+    "price": "2590.00 Rs"
+  },
+  {
+    "itemName": "Sardines",
+    "itemID": "#M0015",
+    "Category": "Meat & Seafood",
+    "price": "2510.00 Rs"
+  },
+  {
+    "itemName": "Crab",
+    "itemID": "#M0016",
+    "Category": "Meat & Seafood",
+    "price": "2690.00 Rs"
+  },
+  {
+    "itemName": "White Bread",
+    "itemID": "#K0001",
+    "Category": "Bakery",
+    "price": "590.00 Rs"
+  },
+  {
+    "itemName": "Brown Bread",
+    "itemID": "#K0002",
+    "Category": "Bakery",
+    "price": "520.00 Rs"
+  },
+  {
+    "itemName": "Whole Wheat Bread",
+    "itemID": "#K0003",
+    "Category": "Bakery",
+    "price": "650.00 Rs"
+  },
+  {
+    "itemName": "Burger Buns",
+    "itemID": "#K0004",
+    "Category": "Bakery",
+    "price": "760.00 Rs"
+  },
+  {
+    "itemName": "Hot Dog Rolls",
+    "itemID": "#K0005",
+    "Category": "Bakery",
+    "price": "110.00 Rs"
+  },
+  {
+    "itemName": "Croissant",
+    "itemID": "#K0006",
+    "Category": "Bakery",
+    "price": "380.00 Rs"
+  },
+  {
+    "itemName": "Bagel",
+    "itemID": "#K0007",
+    "Category": "Bakery",
+    "price": "400.00 Rs"
+  },
+  {
+    "itemName": "Muffin",
+    "itemID": "#K0008",
+    "Category": "Bakery",
+    "price": "550.00 Rs"
+  },
+  {
+    "itemName": "Cupcake",
+    "itemID": "#K0009",
+    "Category": "Bakery",
+    "price": "180.00 Rs"
+  },
+  {
+    "itemName": "Donut",
+    "itemID": "#K0010",
+    "Category": "Bakery",
+    "price": "530.00 Rs"
+  },
+  {
+    "itemName": "Cake Slice",
+    "itemID": "#K0011",
+    "Category": "Bakery",
+    "price": "780.00 Rs"
+  },
+  {
+    "itemName": "Garlic Bread",
+    "itemID": "#K0012",
+    "Category": "Bakery",
+    "price": "610.00 Rs"
+  },
+  {
+    "itemName": "Pita Bread",
+    "itemID": "#K0013",
+    "Category": "Bakery",
+    "price": "340.00 Rs"
+  },
+  {
+    "itemName": "Tortilla Wraps",
+    "itemID": "#K0014",
+    "Category": "Bakery",
+    "price": "540.00 Rs"
+  },
+  {
+    "itemName": "Baguette",
+    "itemID": "#K0015",
+    "Category": "Bakery",
+    "price": "270.00 Rs"
+  },
+  {
+    "itemName": "Fish Bun",
+    "itemID": "#K0016",
+    "Category": "Bakery",
+    "price": "520.00 Rs"
+  },
+  {
+    "itemName": "Cinnamon Roll",
+    "itemID": "#K0017",
+    "Category": "Bakery",
+    "price": "570.00 Rs"
+  },
+  {
+    "itemName": "Dish Soap",
+    "itemID": "#H0001",
+    "Category": "Household",
+    "price": "280.00 Rs"
+  },
+  {
+    "itemName": "Laundry Detergent",
+    "itemID": "#H0002",
+    "Category": "Household",
+    "price": "1480.00 Rs"
+  },
+  {
+    "itemName": "Fabric Softener",
+    "itemID": "#H0003",
+    "Category": "Household",
+    "price": "700.00 Rs"
+  },
+  {
+    "itemName": "Bleach",
+    "itemID": "#H0004",
+    "Category": "Household",
+    "price": "1170.00 Rs"
+  },
+  {
+    "itemName": "Floor Cleaner",
+    "itemID": "#H0005",
+    "Category": "Household",
+    "price": "910.00 Rs"
+  },
+  {
+    "itemName": "Glass Cleaner",
+    "itemID": "#H0006",
+    "Category": "Household",
+    "price": "350.00 Rs"
+  },
+  {
+    "itemName": "Toilet Cleaner",
+    "itemID": "#H0007",
+    "Category": "Household",
+    "price": "550.00 Rs"
+  },
+  {
+    "itemName": "Trash Bags",
+    "itemID": "#H0008",
+    "Category": "Household",
+    "price": "990.00 Rs"
+  },
+  {
+    "itemName": "Aluminum Foil",
+    "itemID": "#H0009",
+    "Category": "Household",
+    "price": "450.00 Rs"
+  },
+  {
+    "itemName": "Cling Wrap",
+    "itemID": "#H0010",
+    "Category": "Household",
+    "price": "1070.00 Rs"
+  },
+  {
+    "itemName": "Paper Towels",
+    "itemID": "#H0011",
+    "Category": "Household",
+    "price": "180.00 Rs"
+  },
+  {
+    "itemName": "Tissue Box",
+    "itemID": "#H0012",
+    "Category": "Household",
+    "price": "340.00 Rs"
+  },
+  {
+    "itemName": "Toilet Paper",
+    "itemID": "#H0013",
+    "Category": "Household",
+    "price": "150.00 Rs"
+  },
+  {
+    "itemName": "Sponges",
+    "itemID": "#H0014",
+    "Category": "Household",
+    "price": "1070.00 Rs"
+  },
+  {
+    "itemName": "Scrub Brush",
+    "itemID": "#H0015",
+    "Category": "Household",
+    "price": "1340.00 Rs"
+  },
+  {
+    "itemName": "Air Freshener",
+    "itemID": "#H0016",
+    "Category": "Household",
+    "price": "1270.00 Rs"
+  },
+  {
+    "itemName": "Insect Spray",
+    "itemID": "#H0017",
+    "Category": "Household",
+    "price": "320.00 Rs"
+  },
+  {
+    "itemName": "Shampoo",
+    "itemID": "#P0001",
+    "Category": "Personal Care",
+    "price": "1450.00 Rs"
+  },
+  {
+    "itemName": "Conditioner",
+    "itemID": "#P0002",
+    "Category": "Personal Care",
+    "price": "610.00 Rs"
+  },
+  {
+    "itemName": "Body Wash",
+    "itemID": "#P0003",
+    "Category": "Personal Care",
+    "price": "710.00 Rs"
+  },
+  {
+    "itemName": "Hand Soap",
+    "itemID": "#P0004",
+    "Category": "Personal Care",
+    "price": "450.00 Rs"
+  },
+  {
+    "itemName": "Toothpaste",
+    "itemID": "#P0005",
+    "Category": "Personal Care",
+    "price": "1470.00 Rs"
+  },
+  {
+    "itemName": "Toothbrush",
+    "itemID": "#P0006",
+    "Category": "Personal Care",
+    "price": "290.00 Rs"
+  },
+  {
+    "itemName": "Mouthwash",
+    "itemID": "#P0007",
+    "Category": "Personal Care",
+    "price": "1320.00 Rs"
+  },
+  {
+    "itemName": "Deodorant",
+    "itemID": "#P0008",
+    "Category": "Personal Care",
+    "price": "750.00 Rs"
+  },
+  {
+    "itemName": "Body Lotion",
+    "itemID": "#P0009",
+    "Category": "Personal Care",
+    "price": "930.00 Rs"
+  },
+  {
+    "itemName": "Face Wash",
+    "itemID": "#P0010",
+    "Category": "Personal Care",
+    "price": "520.00 Rs"
+  },
+  {
+    "itemName": "Sunscreen",
+    "itemID": "#P0011",
+    "Category": "Personal Care",
+    "price": "210.00 Rs"
+  },
+  {
+    "itemName": "Razor",
+    "itemID": "#P0012",
+    "Category": "Personal Care",
+    "price": "840.00 Rs"
+  },
+  {
+    "itemName": "Shaving Foam",
+    "itemID": "#P0013",
+    "Category": "Personal Care",
+    "price": "1390.00 Rs"
+  },
+  {
+    "itemName": "Sanitary Pads",
+    "itemID": "#P0014",
+    "Category": "Personal Care",
+    "price": "1380.00 Rs"
+  },
+  {
+    "itemName": "Cotton Buds",
+    "itemID": "#P0015",
+    "Category": "Personal Care",
+    "price": "1210.00 Rs"
+  },
+  {
+    "itemName": "Hand Sanitizer",
+    "itemID": "#P0016",
+    "Category": "Personal Care",
+    "price": "480.00 Rs"
+  },
+  {
+    "itemName": "Hair Oil",
+    "itemID": "#P0017",
+    "Category": "Personal Care",
+    "price": "1320.00 Rs"
+  },
+  {
+    "itemName": "Tomato Ketchup",
+    "itemID": "#C0001",
+    "Category": "Canned & Condiments",
+    "price": "710.00 Rs"
+  },
+  {
+    "itemName": "Mayonnaise",
+    "itemID": "#C0002",
+    "Category": "Canned & Condiments",
+    "price": "1220.00 Rs"
+  },
+  {
+    "itemName": "Soy Sauce",
+    "itemID": "#C0003",
+    "Category": "Canned & Condiments",
+    "price": "520.00 Rs"
+  },
+  {
+    "itemName": "Chili Sauce",
+    "itemID": "#C0004",
+    "Category": "Canned & Condiments",
+    "price": "1280.00 Rs"
+  },
+  {
+    "itemName": "Mustard",
+    "itemID": "#C0005",
+    "Category": "Canned & Condiments",
+    "price": "840.00 Rs"
+  },
+  {
+    "itemName": "BBQ Sauce",
+    "itemID": "#C0006",
+    "Category": "Canned & Condiments",
+    "price": "420.00 Rs"
+  },
+  {
+    "itemName": "Vinegar",
+    "itemID": "#C0007",
+    "Category": "Canned & Condiments",
+    "price": "1100.00 Rs"
+  },
+  {
+    "itemName": "Peanut Butter",
+    "itemID": "#C0008",
+    "Category": "Canned & Condiments",
+    "price": "580.00 Rs"
+  },
+  {
+    "itemName": "Strawberry Jam",
+    "itemID": "#C0009",
+    "Category": "Canned & Condiments",
+    "price": "530.00 Rs"
+  },
+  {
+    "itemName": "Honey",
+    "itemID": "#C0010",
+    "Category": "Canned & Condiments",
+    "price": "880.00 Rs"
+  },
+  {
+    "itemName": "Chocolate Spread",
+    "itemID": "#C0011",
+    "Category": "Canned & Condiments",
+    "price": "1290.00 Rs"
+  },
+  {
+    "itemName": "Canned Tuna",
+    "itemID": "#C0012",
+    "Category": "Canned & Condiments",
+    "price": "1090.00 Rs"
+  },
+  {
+    "itemName": "Canned Sardines",
+    "itemID": "#C0013",
+    "Category": "Canned & Condiments",
+    "price": "1050.00 Rs"
+  },
+  {
+    "itemName": "Canned Corn",
+    "itemID": "#C0014",
+    "Category": "Canned & Condiments",
+    "price": "550.00 Rs"
+  },
+  {
+    "itemName": "Canned Beans",
+    "itemID": "#C0015",
+    "Category": "Canned & Condiments",
+    "price": "1320.00 Rs"
+  },
+  {
+    "itemName": "Canned Tomatoes",
+    "itemID": "#C0016",
+    "Category": "Canned & Condiments",
+    "price": "650.00 Rs"
+  },
+  {
+    "itemName": "Frozen Peas",
+    "itemID": "#Z0001",
+    "Category": "Frozen",
+    "price": "1170.00 Rs"
+  },
+  {
+    "itemName": "French Fries",
+    "itemID": "#Z0002",
+    "Category": "Frozen",
+    "price": "430.00 Rs"
+  },
+  {
+    "itemName": "Frozen Pizza",
+    "itemID": "#Z0003",
+    "Category": "Frozen",
+    "price": "620.00 Rs"
+  },
+  {
+    "itemName": "Frozen Mixed Vegetables",
+    "itemID": "#Z0004",
+    "Category": "Frozen",
+    "price": "1200.00 Rs"
+  },
+  {
+    "itemName": "Chicken Wings",
+    "itemID": "#Z0005",
+    "Category": "Frozen",
+    "price": "550.00 Rs"
+  },
+  {
+    "itemName": "Fish Fingers",
+    "itemID": "#Z0006",
+    "Category": "Frozen",
+    "price": "500.00 Rs"
+  },
+  {
+    "itemName": "Burger Patties",
+    "itemID": "#Z0007",
+    "Category": "Frozen",
+    "price": "1110.00 Rs"
+  },
+  {
+    "itemName": "Frozen Dumplings",
+    "itemID": "#Z0008",
+    "Category": "Frozen",
+    "price": "1720.00 Rs"
+  },
+  {
+    "itemName": "Frozen Paratha",
+    "itemID": "#Z0009",
+    "Category": "Frozen",
+    "price": "1120.00 Rs"
+  },
+  {
+    "itemName": "Vanilla Ice Cream",
+    "itemID": "#Z0010",
+    "Category": "Frozen",
+    "price": "1980.00 Rs"
+  },
+  {
+    "itemName": "Chocolate Ice Cream",
+    "itemID": "#Z0011",
+    "Category": "Frozen",
+    "price": "450.00 Rs"
+  },
+  {
+    "itemName": "Popsicles",
+    "itemID": "#Z0012",
+    "Category": "Frozen",
+    "price": "450.00 Rs"
+  },
+  {
+    "itemName": "Frozen Sweet Corn",
+    "itemID": "#Z0013",
+    "Category": "Frozen",
+    "price": "1440.00 Rs"
+  },
+  {
+    "itemName": "Frozen Berries",
+    "itemID": "#Z0014",
+    "Category": "Frozen",
+    "price": "1370.00 Rs"
+  },
+  {
+    "itemName": "Spring Rolls",
+    "itemID": "#Z0015",
+    "Category": "Frozen",
+    "price": "1070.00 Rs"
+  },
+  {
+    "itemName": "Frozen Samosa",
+    "itemID": "#Z0016",
+    "Category": "Frozen",
+    "price": "1800.00 Rs"
+  }
+]
