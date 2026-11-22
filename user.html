@@ -14,11 +14,11 @@
             </button>
             <button id="user-profile"></button>
         </div>
-        
     </div>
     <div class="content-body">
         <!-- From Uiverse.io by german_7619 --> 
         <div class="radio-inputs">
+
             <label class="radio">
                 <input type="radio" name="radio" checked="" />
                 <span class="name">
@@ -28,33 +28,22 @@
                 </span>
                 <div class="content">
                 <div>
-                    <div>
-                        <div class="product-card">
-                            <div id="product-description">
-                                <p id="product-name">Product Name</p>
-                                <p id="product-id"> Product ID</p>
-                            </div>
-                            
-                            <div id="quantity-section">
-                                <button id="svg-plus">+</button>
-                                <label id="quantity">1</label>
-                                <button id="svg-minus">-</button>
-                            </div>
-                        </div>
+                    <div class="product-list" data-category="all">
                     </div>
                 </div>
                 </div>
             </label>
+
             <label class="radio">
                 <input type="radio" name="radio" />
                 <span class="name">
                 <span class="pre-name"></span>
                 <span class="pos-name"></span>
-                <span> And </span>
+                <span> Beverages </span>
                 </span>
                 <div class="content">
                 <div>
-                    <div>And content</div>
+                    <div class="product-list" data-category="Beverages"></div>
                 </div>
                 </div>
             </label>
@@ -64,11 +53,11 @@
                 <span class="name">
                 <span class="pre-name"></span>
                 <span class="pos-name"></span>
-                <span> More </span>
+                <span> Grocery </span>
                 </span>
                 <div class="content">
                 <div>
-                    <div>More content</div>
+                    <div class="product-list" data-category="Grocery"></div>
                 </div>
                 </div>
             </label>
@@ -78,19 +67,158 @@
                 <span class="name">
                 <span class="pre-name"></span>
                 <span class="pos-name"></span>
-                <span> Tabs </span>
+                <span> Snacks </span>
                 </span>
                 <div class="content">
                 <div>
-                    <div>And Even More content</div>
+                    <div class="product-list" data-category="Snacks"></div>
                 </div>
                 </div>
             </label>
-            <div class="search-inputs">
+
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Dairy </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Dairy"></div>
+                </div>
+                </div>
+            </label>
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Fruits </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Fruits"></div>
+                </div>
+                </div>
+            </label>
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Vegetables </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Vegetables"></div>
+                </div>
+                </div>
+            </label>
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Meat & Seafood </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Meat &amp; Seafood"></div>
+                </div>
+                </div>
+            </label>
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Bakery </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Bakery"></div>
+                </div>
+                </div>
+            </label>
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Household </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Household"></div>
+                </div>
+                </div>
+            </label>
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Personal Care </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Personal Care"></div>
+                </div>
+                </div>
+            </label>
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Canned & Condiments </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Canned &amp; Condiments"></div>
+                </div>
+                </div>
+            </label>
+            <label class="radio">
+                <input type="radio" name="radio" />
+                <span class="name">
+                <span class="pre-name"></span>
+                <span class="pos-name"></span>
+                <span> Frozen </span>
+                </span>
+                <div class="content">
+                <div>
+                    <div class="product-list" data-category="Frozen"></div>
+                </div>
+                </div>
+            </label>
+
+            <!-- <div class="search-inputs">
                 <input type="text" placeholder="Search Product Name or Product ID">
                 <button>Search</button>
-            </div>
+            </div> -->
         </div>
+        <aside class="sticky-box" aria-label="Current sale">
+            <h2 class="receipt-title">ABC Supermarket</h2>
+            <div id="item-display-section">
+                <div id="item-list" aria-live="polite">
+                    <p class="empty-cart">No items added yet.</p>
+                </div>
+            </div>
+            <div id="price-section">
+                <p><span>Total:</span><strong id="cart-total">Rs. 0.00</strong></p>
+                <p><span>Discount:</span><strong id="cart-discount">Rs. 0.00</strong></p>
+                <p><span>Sub Total:</span><strong id="cart-subtotal">Rs. 0.00</strong></p>
+                <p><span>Cash:</span><strong id="cash-amount">Not entered</strong></p>
+                <p><span>Change:</span><strong id="cash-change">Rs. 0.00</strong></p>
+            </div>
+            <div class="sale-actions">
+                <button id="clear-cart-button" type="button" onclick="clearCartOnAction()">Clear Cart</button>
+                <button id="cash-button" type="button" onclick="askForCashOnAction()">Enter Cash</button>
+                <button id="print-button" type="button" onclick="printBillOnAction()">Print Bill</button>
+            </div>
+        </aside>
         
 
     </div>

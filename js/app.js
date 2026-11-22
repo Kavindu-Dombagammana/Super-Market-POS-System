@@ -1,7 +1,6 @@
 const adminUsername = "admin";
 const adminPassword = "admin";
 
-// window.open('https://www.google.com', '_blank') opens a web page
 const users =[
     {
         "username" : "user01",
